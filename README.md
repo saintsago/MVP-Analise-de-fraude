@@ -27,7 +27,7 @@ teste, contra 0,5010 de um baseline aleatório (`DummyClassifier`).
 ## Como executar
 
 1. Abrir `MVP_Analise_de_fraude.ipynb` no Google Colab:
-   https://colab.research.google.com/drive/1YJ9O8AWL3AczPNQ4NxCbSuOAmqkQ8M0J
+   https://colab.research.google.com/drive/1NasF-CNGXU7iyrh8Z5o3xlqgkvaTjYfg?usp=sharing
 2. Executar todas as células, do início ao fim (`Ambiente de execução > Executar tudo`).
 3. A Seção 3.2 baixa os 4 CSVs automaticamente via `gdown` para `./data/` dentro do
    runtime do Colab.
